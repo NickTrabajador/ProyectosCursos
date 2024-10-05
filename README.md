@@ -1,3 +1,3 @@
 ProyectosCursos
 
-Aca subire los proyectos finales de los cursos es lo que tuve cursada.
+Aca subi elm proyecto de React Native que realize como Proyecto Final de CoderHouse.
