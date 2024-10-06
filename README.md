@@ -1,3 +1,3 @@
 ProyectosCursos
 
-Aca subi elm proyecto de React Native que realize como Proyecto Final de CoderHouse.
+Aca subi el proyecto de React Native que realize como Proyecto Final de CoderHouse.
