@@ -5,9 +5,6 @@ export const quizData = [
         answer: "Brasil"
     },
     {
-        question: "What is the chemical symbol for water?",
-        options: ["H2O", "CO2", "NaCl", "O2"],
-        answer: "H2O"
         question: "¿Quién es el máximo goleador histórico del FC Barcelona?",
         options: ["Lionel Messi", "Ronaldinho", "Luis Suarez" , "Neymar"],
         answer: "Lionel Messi"
